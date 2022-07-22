@@ -12,7 +12,7 @@ import static io.restassured.RestAssured.given;
 public class GitRestTest {
 
     RequestSpecification reqSpec;
-    String token= "token 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";
+    String token= "token";
     int id;
 
     @BeforeClass
